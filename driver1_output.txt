@@ -1,0 +1,200 @@
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : tiffany
+Enter students ID  : 374
+Enter students GPA : 3.4
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : mark
+Enter students ID  : 352 
+Enter students GPA : 3.2
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : penny
+Enter students ID  : 364 
+Enter students GPA : 3.8
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : cody
+Enter students ID  : 784
+Enter students GPA : 3.1
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : leane
+Enter students ID  : 784
+Enter students GPA : 3.5
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 1
+Enter student's name  : max
+Enter students ID  : 634
+Enter students GPA : 2.4
+Student Enlisted
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 3
+The current list has 6 students. (Length of List).
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 4
+Which index would you like to retrieve information from? (Enter number) 6
+
+Student at index 6 Name is max, ID : 634, GPA : 2.40
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 2
+Removed student from list, Name : tiffany, ID : 374, GPA : 3.40 
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 5
+
+Printing all students...
+Student : mark, ID : 352, GPA : 3.20 
+Student : penny, ID : 364, GPA : 3.80 
+Student : cody, ID : 784, GPA : 3.10 
+Student : leane, ID : 784, GPA : 3.50 
+Student : max, ID : 634, GPA : 2.40 
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 6
+Min GPA : 2.40 , Mean GPA : 3.20 , Max GPA : 3.80 
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 7
+Student penny, with ID 364 and GPA of 3.80 has the highest GPA.
+Student has been removed
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 5
+
+Printing all students...
+Student : mark, ID : 352, GPA : 3.20 
+Student : cody, ID : 784, GPA : 3.10 
+Student : leane, ID : 784, GPA : 3.50 
+Student : max, ID : 634, GPA : 2.40 
+
+1-Create a new student cell with given id, gpa, name info
+2-Remove the first student from linked list and print info
+3-Print number of students in list
+4-Print student at certain index
+5-Print our all students in linked list
+6-Print min, average, max gpa in list
+7-remove the student with highest gpa and print their information
+8-Exit
+
+Enter your choice : 8
+Goodbye
